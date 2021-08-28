@@ -11,18 +11,18 @@ Component({
     list: [],
     allList: [{
       list1: [{
-        pagePath: "../pages/home/home",
+        pagePath: "/pages/home/home",
         text: "首页"
       }, {
-        pagePath: "../pages/notice/notice",
+        pagePath: "/pages/notice/notice",
         text: "返回首页"
       }],
  
       list2: [{
-        pagePath: "../pages/home/home",
+        pagePath: "/pages/home/home",
         text: "首页"
       }, {
-        pagePath: "../pages/publish/publish",
+        pagePath: "/pages/publish/publish",
         text: "发布"
       }]
     }],
